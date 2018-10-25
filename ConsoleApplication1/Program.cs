@@ -15,8 +15,6 @@ namespace ConsoleApplication1
             Console.WriteLine("Welcome TFS");
             Console.WriteLine("Hello TFS12");
             Console.WriteLine("Hello GIT");
-
-
         }
     }
 }
